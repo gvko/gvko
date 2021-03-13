@@ -1,6 +1,6 @@
 ### Hey there, I'm Galin 👋
 
-* 🔭 I’m currently working at [STRV](https://www.strv.com/) with some awesome people on the [PumpkinPie](https://pumpkinpie.com/) project.
+* 💻 I’m currently working at [STRV](https://www.strv.com/) with some awesome people on the [PumpkinPie](https://pumpkinpie.com/) project.
 * ⚙️ I use daily: Node.js + Typescript, Docker, Postgres, Redis, Kubernetes, GCP, Firebase
 * 🌱 I’m currently learning: Go
 * 💬 Ask me about: 
