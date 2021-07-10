@@ -1,6 +1,6 @@
 ### Hey there, I'm Galin 👋
 
-* 💻 I’m currently working at [DeversiFi](https://www.deversifi.com/).
+* 💻 I currently work at [DeversiFi](https://www.deversifi.com/).
 * ⚙️ I use daily: Node.js + Typescript, Docker, Postgres, Redis, MongoDB, Kubernetes, GCP
 * 🌱 I’m currently learning: Go
 * 💬 Ask me about: 
