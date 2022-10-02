@@ -1,9 +1,10 @@
 ### Hey there, I'm Galin 👋
 
-* 💻 I currently work at [DeversiFi](https://www.deversifi.com/).
-* ⚙️ I use daily: Node.js + Typescript, Docker, Postgres, Redis, MongoDB, Kubernetes, GCP
-* 🌱 I’m currently learning: Go
+* 💻 I currently work at [IslandsXYZ](https://www.islands.xyz/) as a web3 dev.
+* ⚙️ I use daily: Node.js + Typescript, Solidity, Docker, Postgres, Redis, Kubernetes, GCP
+* 🌱 I’m currently learning: Rust
 * 💬 Ask me about: 
+  * Blockchain tech and all-crypto stuff ⛓
   * Software Design and Architecture 🏗️
   * Developing greenfield projects 🌱
   * Leading dev teams 👨‍👩‍👧‍👦
