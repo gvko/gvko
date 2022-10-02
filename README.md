@@ -14,5 +14,4 @@
 * 📫 How to reach me
   * [email](dev@galin.cc)
   * [LinkedIn](https://www.linkedin.com/in/galioy/) 
-  * [resume](https://gvko.github.io/)
 * ⚡ Fun fact: I've lived in 4 different countries, and intending to do more... 😆
