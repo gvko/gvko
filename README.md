@@ -1,12 +1,12 @@
 ### Hey there, I'm Galin 👋
 
-* 💻 I currently work at [IslandsXYZ](https://www.islands.xyz/) as a web3 dev.
-* ⚙️ I use daily: Node.js + Typescript, Solidity, Docker, Postgres, Redis, Kubernetes, GCP
-* 🌱 I’m currently learning: Rust
+* 💻 I'm currently a freelance Blockchain Engineer, taking a break off employment, focusing on learning even more cool blockchain stuff!
+* ⚙️ I use daily: Rust, Node.js + Typescript, Solidity, Docker, Postgres, Redis, Kubernetes, GCP
+* 🌱 I’m currently learning: [Substrate](https://substrate.io/)
 * 💬 Ask me about: 
   * Blockchain tech and all-crypto stuff ⛓
   * Software Design and Architecture 🏗️
-  * Developing greenfield projects 🌱
+  * Starting greenfield software projects and bringing them to live 🌱
   * Leading dev teams 👨‍👩‍👧‍👦
   * Hiking the mountains ⛰️
   * Snowboarding 🏂
@@ -14,4 +14,3 @@
 * 📫 How to reach me
   * [email](dev@galin.cc)
   * [LinkedIn](https://www.linkedin.com/in/galioy/) 
-* ⚡ Fun fact: I've lived in 4 different countries, and intending to do more... 😆
