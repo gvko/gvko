@@ -5,8 +5,8 @@
 * 🌱 I’m currently learning: [Substrate](https://substrate.io/)
 * 💬 Ask me about: 
   * Blockchain tech and all-crypto stuff ⛓
-  * Software Design and Architecture 🏗️
-  * Starting greenfield software projects and bringing them to live 🌱
+  * Software Design and Architecture, Microservices 🏗️
+  * Starting greenfield software projects and bringing them to life 🌱
   * Leading dev teams 👨‍👩‍👧‍👦
   * Hiking the mountains ⛰️
   * Snowboarding 🏂
