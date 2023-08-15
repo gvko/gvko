@@ -1,7 +1,7 @@
 ### Hey there, I'm Galin 👋
 
-* 💻 I'm currently a freelance Blockchain Engineer, taking a break off employment, focusing on learning even more cool blockchain stuff!
-* ⚙️ I use daily: Rust, Node.js + Typescript, Solidity, Docker, Postgres, Redis, Kubernetes, GCP
+* 💻 I'm a software engineer with over 10 yrs of experience. I focus on backend, distributed systems and blockchain.
+* ⚙️ I use mostly: Rust, Node.js + Typescript, Go, Docker, Postgres, Redis, Kubernetes, GCP
 * 🌱 I’m currently learning and diving deeper into distributed protocols 
 * 💬 Ask me about: 
   * Blockchain tech and all-crypto stuff ⛓
