@@ -1,7 +1,7 @@
 ### Hey there, I'm Galin 👋
 
 * 💻 I'm a software engineer with over 12 yrs of experience. I focus on backend, distributed systems and blockchain.
-* ⚙️ I use mostly: Node.js + Typescript, Rust, Go, Docker, Postgres, Redis, Kubernetes, GCP
+* ⚙️ I use mostly: Node.js + Typescript, Go, Docker, Postgres, Redis, Kubernetes, GCP
 * 🌱 I’m currently learning and diving deeper into distributed protocols 
 * 💬 Ask me about: 
   * Blockchain tech and all-crypto stuff ⛓
